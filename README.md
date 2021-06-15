@@ -1,3 +1,7 @@
+# Coding Ninjas Assignment - Events Page Redesign using React
+
+![Screenshot](Screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
